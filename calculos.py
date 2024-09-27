@@ -7,3 +7,5 @@ def fatorial(n):
 # Testando a função
 print(fatorial(5))  # Saída: 120
 print(fatorial(0))  # Saída: 1
+
+
